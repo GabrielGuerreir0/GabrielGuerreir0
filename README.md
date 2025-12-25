@@ -1,162 +1,96 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header" width="100%"/>
 
-# Gabriel Guerreiro
+# Hi👋, Im Gabriel Guerreiro
 
-### Full Stack Developer • Researcher • Innovator
-
-<br/>
+🚀 **Junior Software Engineer javascript & React**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=500&lines=Building+digital+experiences;Crafting+meaningful+solutions;Transforming+ideas+into+code" alt="Typing SVG" />
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerreir0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ep.gabrielguerreiro@gmail.com)
-
-<br/>
-<br/>
 
 </div>
 
 ---
 
-<br/>
+## 🌐 Where to find me
 
-## About
-
-Junior Full Stack Developer with **3 years of experience** combining modern web development with academic research in Computer Vision and AI. Passionate about creating innovations that transform lives for the better.
-
-Currently seeking **remote opportunities** where I can contribute, grow, and build impactful solutions.
-
-<br/>
-
-```typescript
-const gabriel = {
-  location: "Brazil 🇧🇷",
-  role: "Full Stack Developer",
-  experience: "3 years",
-  focus: ["React", "Django", "Clean Code"],
-  goal: "Develop innovations that change lives for the better",
-  status: "Open to opportunities",
-};
-```
-
-<br/>
+<p align="left">
+  <a href="https://github.com/GabrielGuerreir0">
+    <img src="https://img.shields.io/badge/GitHub-GabrielGuerreir0-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-guerreir0">
+    <img src="https://img.shields.io/badge/linkedin-Gabriel Guerreiro-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ep.gabrielguerreiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gabriel Guerreiro-ff0000?style=for-the-badge&logo=Email" />
+  </a>
+  
+</p>
 
 ---
 
-<br/>
+## 🧠 What I do
 
-## Featured Work
-
-### **EduIRL** — Educational Management Platform
-
-Web system for managing students in non-conventional education environments.
-
-**Contributions:**
-
-- Developed API routes using **FastAPI** and **Python**
-- Built frontend features with **React** and **TypeScript**
-- Collaborated on full-stack solutions for educational management
-
-**Stack:** `FastAPI` `Python` `React` `TypeScript`
-
-<br/>
+- ⚡ Performance optimization
+- 🧩 Clean architecture & system design
+- 🔐 Secure APIs & authentication
+- 🤖 Automation & integrations
+- 📊 Dashboards & analytics
 
 ---
 
-<br/>
+## 🛠️ Tech Stack
 
-## Tech Stack
+### Frontend
 
-**Frontend**  
-React • Next.js • Angular • TypeScript • JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Backend**  
-Python • Django • FastAPI • Java • Spring
+### Backend
 
-**Currently Deep Diving**  
-React Advanced Patterns • Django REST Framework
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-336093?style=for-the-badge&logo=python)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
+### DevOps & Tools
 
----
-
-<br/>
-
-## Research
-
-Beyond web development, I contribute to academic research in Computer Vision and Deep Learning:
-
-**2025** • XVI Computer on the Beach  
-_Impact of Image Enhancement Filters on Road Defect Detection Using Deep Learning_
-
-**2024** • MAIREPAV10 - Volume 2  
-_Automated Detection and Estimation of Pavement Distress Dimensions Using Computer Vision_
-
-<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-<br/>
+## 📊 GitHub Statistics
 
-## What Drives Me
-
-```python
-mindset = {
-    "code": "Clean and maintainable",
-    "learning": "Continuous and intentional",
-    "impact": "Positive and meaningful",
-    "collaboration": "Essential for growth"
-}
-```
-
-- Creating scalable and elegant web solutions
-- Writing quality code that others can understand
-- Learning constantly and pushing technical boundaries
-- Building technology that makes a real difference
-
-<br/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielGuerreir0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuerreir0&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<br/>
+## 🚀 Philosophy
 
-## Looking For
-
-**Remote Full Stack Developer opportunities** in collaborative environments where I can:
-
-• Grow technically through challenging projects  
-• Contribute with quality code and creative solutions  
-• Work on products that generate positive impact  
-• Learn from experienced developers and share knowledge
-
-<br/>
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
 
 ---
 
-<br/>
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
 
-<div align="center">
-
-## Get In Touch
-
-**Email:** ep.gabrielguerreiro@gmail.com  
-**LinkedIn:** [gabriel-guerreir0](https://www.linkedin.com/in/gabriel-guerreir0)
-
-<br/>
-
-_"The most powerful technology is the one that serves people"_
-
-<br/>
-
-⭐ If you find any project interesting, your star would be appreciated!
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 
 </div>
